@@ -1,0 +1,122 @@
+{
+    "maps": [
+        {
+            "fileName": "map18.tmx",
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "map19.tmx",
+            "x": 400,
+            "y": 0
+        },
+        {
+            "fileName": "map20.tmx",
+            "x": 800,
+            "y": 0
+        },
+        
+        
+        {
+            "fileName": "map0.tmx",
+            "x": 0,
+            "y": 240
+        },
+        {
+            "fileName": "map1.tmx",
+            "x": 400,
+            "y": 240
+        },
+        {
+            "fileName": "map2.tmx",
+            "x": 800,
+            "y": 240
+        },
+        
+        
+        {
+            "fileName": "map3.tmx",
+            "x": 0,
+            "y": 480
+        },
+        {
+            "fileName": "map4.tmx",
+            "x": 400,
+            "y": 480
+        },
+        {
+            "fileName": "map5.tmx",
+            "x": 800,
+            "y": 480
+        },
+        
+        
+        {
+            "fileName": "map6.tmx",
+            "x":   0,
+            "y": 720
+        },
+        {
+            "fileName": "map7.tmx",
+            "x": 400,
+            "y": 720
+        },
+        {
+            "fileName": "map8.tmx",
+            "x": 800,
+            "y": 720
+        },
+        
+        
+        {
+            "fileName": "map9.tmx",
+            "x":   0,
+            "y": 960
+        },
+        {
+            "fileName": "map10.tmx",
+            "x": 400,
+            "y": 960
+        },
+        {
+            "fileName": "map11.tmx",
+            "x": 800,
+            "y": 960
+        },
+        
+        
+        {
+            "fileName": "map12.tmx",
+            "x":   0,
+            "y": 1200
+        },
+        {
+            "fileName": "map13.tmx",
+            "x": 400,
+            "y": 1200
+        },
+        {
+            "fileName": "map14.tmx",
+            "x": 800,
+            "y": 1200
+        },
+        
+        
+         {
+            "fileName": "map15.tmx",
+            "x":   0,
+            "y": 1440
+        },
+         {
+            "fileName": "map16.tmx",
+            "x": 400,
+            "y": 1440
+        },
+         {
+            "fileName": "map17.tmx",
+            "x": 800,
+            "y": 1440
+        }
+    ],
+    "type": "world"
+}
