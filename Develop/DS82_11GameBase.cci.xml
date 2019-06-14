@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<CciInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Contents>
+    <ContentsInfo>
+      <Title>DS82_11G</Title>
+      <ExtendedMode>false</ExtendedMode>
+      <RomFsInfo>
+        <Root>C:\Users\nhs80244\Desktop\Castle Origin Online(3DS)\romfiles</Root>
+        <Files>
+          <Name>\shader.shbin</Name>
+          <Name>\resources\boss.tga</Name>
+          <Name>\resources\effect001.tga</Name>
+          <Name>\resources\enemy001.tga</Name>
+          <Name>\resources\enemy002.tga</Name>
+          <Name>\resources\gameclear.bmp</Name>
+          <Name>\resources\gameover.bmp</Name>
+          <Name>\resources\led_lens_flare.bmp</Name>
+          <Name>\resources\number001.tga</Name>
+          <Name>\resources\player.png</Name>
+          <Name>\resources\player001.tga</Name>
+          <Name>\resources\PressStart2P.tga</Name>
+          <Name>\resources\PressStart2Ph.tga</Name>
+          <Name>\resources\sozai.bmp</Name>
+          <Name>\resources\Thumbs.db</Name>
+          <Name>\resources\title.bmp</Name>
+          <Name>\voice\game_maoudamashii_1_battle22.wav</Name>
+          <Name>\voice\game_maoudamashii_2_boss01.wav</Name>
+          <Name>\voice\game_maoudamashii_3_theme14.wav</Name>
+          <Name>\voice\game_maoudamashii_9_jingle05.wav</Name>
+          <Name>\voice\game_maoudamashii_9_jingle07.wav</Name>
+          <Name>\voice\se_maoudamashii_battle08.wav</Name>
+          <Name>\voice\se_maoudamashii_battle12.wav</Name>
+          <Name>\voice\se_maoudamashii_battle17.wav</Name>
+          <Name>\voice\se_maoudamashii_effect04.wav</Name>
+          <Name>\voice\se_maoudamashii_element_fire09.wav</Name>
+          <Name>\voice\se_maoudamashii_explosion04.wav</Name>
+          <Name>\voice\se_maoudamashii_magical01.wav</Name>
+          <Name>\voice\se_maoudamashii_magical02.wav</Name>
+          <Name>\voice\se_maoudamashii_magical05.wav</Name>
+          <Name>\voice\se_maoudamashii_magical14.wav</Name>
+          <Name>\voice\se_maoudamashii_magical25.wav</Name>
+          <Name>\voice\se_maoudamashii_system37.wav</Name>
+          <Name>\voice\se_maoudamashii_voice_monster02.wav</Name>
+        </Files>
+      </RomFsInfo>
+      <CodeInfo>
+        <Compressed>true</Compressed>
+        <OriginalSize>446,464 byte</OriginalSize>
+        <CompressedSize>253,676 byte</CompressedSize>
+        <CompressedRate>56.8 %</CompressedRate>
+      </CodeInfo>
+    </ContentsInfo>
+  </Contents>
+</CciInfo>
