@@ -1,6 +1,7 @@
 # hayato9118.github.game
 
 # CastleOrigin Online（３ＤＳ）
+制作者:h.esaki  
 
 ニンテンドー３ＤＳの２ＤＲＰＧゲーム  
 ※このゲームでは上画面のみの仕様となります。 
