@@ -1,10 +1,8 @@
-# hayato9118.github.game
-
 # CastleOrigin Online（３ＤＳ）
 # ※動画（パワーポイントのスライドショー）
-# Game Video.ppsx  
+# ：Game Video.ppsx  
 # 　企画書（PDF）
-# Game Planning Book.pdf  
+# ：Game Planning Book.pdf  
 制作者:h.esaki  
 
 ニンテンドー３ＤＳの２ＤＲＰＧゲーム  
